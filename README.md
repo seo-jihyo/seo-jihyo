@@ -1,12 +1,14 @@
 
+<!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FEE686&text=Hi%20there%20👋%20Welcome%20my%20github&fontColor=a9a9a9&fontSize=40)-->
+
+
+<!--
 <div align=center> 
 <br/>
-<!--
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FEE686&text=Hi%20there%20👋%20Welcome%20my%20github&fontColor=a9a9a9&fontSize=40)-->
-<h1>Hi there 👋 Welcome my github
+<h1>Hi there 👋
 <h2>📚 STACKS</h2>
  
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -31,7 +33,7 @@
 <div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-jihyo&show_icons=true&theme=flag-india)
-  
+-->  
 </div>
 <!--
 **seo-jihyo/seo-jihyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
