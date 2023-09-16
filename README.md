@@ -2,7 +2,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FEE686&text=Hi%20there%20👋%20Welcome%20my%20github&fontColor=a9a9a9&fontSize=40)-->
 
 
-<!--
+
 <div align=center> 
 <br/>
 <h1>Hi there 👋
@@ -29,7 +29,7 @@
 
 </div>
 
-<br/>--> 
+<br/>
 <div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-jihyo&show_icons=true&theme=flag-india)
